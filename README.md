@@ -1,4 +1,4 @@
-# 【中文版站点】国内可用的 ChatGPT国内站点整理~（2024/11/16）
+# 【中文版站点】国内可用的 ChatGPT国内站点整理~（2024/11/18）
 
 本站提供ChatGPT国内站点，汇总了多个ChatGPT中文版、ChatGPT镜像网站，包括GPT4、GPT-4o、o1、AI写作、AI PPT、AI绘画等功能。
 
